@@ -4,8 +4,8 @@ es un tipo de herramienta que se utiliza para CAmbiar la URL a enviar. La herram
 
 # INSTALACION
 	
-	git clone 
-	cd
+	git clone https://github.com/FdnX22/URL-HIDDEN.git
+	cd URL-HIDDEN
 	bash setup.sh
 	chmod+x URL-HIDDEN.sh
 	./URL-HIDDEN.sh
